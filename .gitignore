@@ -1,0 +1,9 @@
+*.ini
+result
+result-*
+~*
+\#*
+.DS_Store
+*.log
+tmp
+smashing
